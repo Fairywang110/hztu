@@ -68,8 +68,8 @@ div{
 }
 .c_cont{
 	position:fixed;
-	left:490px;
-	top:715px;
+	left:29%;
+	top:76%;
 	display: flex;
 	justify-content:space-between;
 	width: 45%;
